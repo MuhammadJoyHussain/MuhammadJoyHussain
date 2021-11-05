@@ -1,6 +1,6 @@
 ![Junior Full Stack Developer](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXFnyQ74WLldpLbdEpNLXQmmwb6HG3ghRz7ptUxMIPHzo1E_ubd8_cD9Z4d6YNV_3xIuo&usqp=CAU)
 ### Hi there 👋, I'm Md Joynul Hussain
-I'm from Bangladesh. I love to do coding and I do hard work. I enjoy to learn new languages like HTML, CSS and JavaScript.
+I love to do coding and I do hard work. I enjoy to learn new languages like HTML, CSS and JavaScript.
 
 ## Skills and Experience
 * ⚛React
