@@ -23,3 +23,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadjoyhussain&show_icons=true&locale=en&layout=compact" alt="muhammadjoyhussain" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadjoyhussain&show_icons=true&locale=en" alt="muhammadjoyhussain" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadjoyhussain&" alt="muhammadjoyhussain" /></p>
