@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadjoyhussain&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadjoyhussain" /> </p>
 
-- 🌱 I’m currently learning **Nextjs**
+- 🌱 I’m currently working with **Nextjs**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/joynul-hussain/](https://www.linkedin.com/in/joynul-hussain/)
 
