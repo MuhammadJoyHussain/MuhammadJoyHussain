@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently working with **Nextjs**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/joynul-hussain/](https://www.linkedin.com/in/joynul-hussain/)
-
 - 📫 How to reach me **muhammadjoyhussain@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
